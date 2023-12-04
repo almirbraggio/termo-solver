@@ -1,6 +1,6 @@
 # termo-solver
 
-Usa uma lista de palavras como arquivo de entrada para dar sugestões ao term.ooo do dia.
+Usa uma lista de palavras como arquivo de entrada para dar sugestões ao [term.ooo](https://term.ooo/) do dia.
 O script formata uma ou mais expressões regulares, de acordo com os parâmetros de entrada, sendo:
 
 - file (requerido): arquivo de texto com palavras a buscar, uma palavra por linha
